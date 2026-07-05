@@ -5,8 +5,8 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 👤 Student Profile
-* **Name:** Akshat Garg
-* **Registration Number:** 23BCE10641
+* **Name:** Shresth Goel
+* **Registration Number:** 23BCE10552
 * **Course:** B.Tech Computer Science and Engineering
 * **Institution:** VIT Bhopal University
 
