@@ -13,8 +13,8 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 🔗 Live Application Gateways
-* **Production Live URL:** https://student-placement-predictor-app-6rll.onrender.com
-* **Source Repository:** https://github.com/AkshatGarg2005/Student-Placement_Predictor_App
+* **Production Live URL:** https://student-placement-predictor-app-9a9h.onrender.com
+* **Source Repository:** https://github.com/Shresth6081/Student_Placement_Predictor_App
 
 ---
 
